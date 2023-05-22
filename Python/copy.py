@@ -1,9 +1,9 @@
 import copy
 
-old_list = [[1, 1, 1], [2, 2, 2], [3, 3, 3]]
+old_list = [[1, 1, 1], [2, 2, 2], [3, 3, 3], 4]
 new_list = copy.copy(old_list)
 
-old_list.append([4, 4, 4])
+old_list[3]=0
 
 print("Old list:", old_list)
 print("New list:", new_list)
