@@ -1,4 +1,4 @@
-package Java.A;
+package A;
 class MinMissingInt {
     public int min_int(int[] A) {
         // Implement your solution here
