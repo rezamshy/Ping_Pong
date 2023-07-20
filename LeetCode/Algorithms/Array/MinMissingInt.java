@@ -1,4 +1,5 @@
-package A;
+package LeetCode.Algorithms.Array;
+
 class MinMissingInt {
     public int min_int(int[] A) {
         // Implement your solution here
